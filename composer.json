@@ -1,0 +1,16 @@
+{
+    "name": "bcmm073/sapp-models",
+    "type": "library",
+    "autoload": {
+        "psr-4": {
+            "Bcmm073\\SappModels\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "kyaw zin htet"
+        }
+    ],
+    "minimum-stability": "beta",
+    "require": {}
+}
