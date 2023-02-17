@@ -11,6 +11,6 @@
             "name": "kyaw zin htet"
         }
     ],
-    "minimum-stability": "beta",
+    "minimum-stability": "stable",
     "require": {}
 }
